@@ -65,6 +65,7 @@ RegisterNumber: 25013468
 
 ## Output:
 <img width="912" height="636" alt="image" src="https://github.com/user-attachments/assets/65c3c611-4793-4662-9eb8-34204573a517" />
+<img width="1028" height="666" alt="image" src="https://github.com/user-attachments/assets/eacd3c01-00a6-4b5c-a683-820cd47455c4" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
